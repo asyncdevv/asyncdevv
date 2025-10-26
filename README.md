@@ -6,7 +6,7 @@
 
 ## About Me
 - Currently building: **Student Portfolios, and Web based System with AI integration**  
-- Learning: **React, TailwindCSS, Node.js, PHP, C#**  
+- Learning: **React, Node.js, PHP, C#**  
 - Goal: To create scalable, user-friendly apps & contribute to open-source  
 - Fun fact: I am good at creating bugs
 
