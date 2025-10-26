@@ -37,4 +37,4 @@
 
 ---
 
- _“Code. Coffee. Repeat.”_
+ _“debug, debug, debug, debug”_
