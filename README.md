@@ -21,9 +21,9 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lawrencemacababayao2&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asyncdevv&show_icons=true&theme=blueberry" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencemacababayao2&layout=compact&theme=blueberry" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyncdevv&layout=compact&theme=blueberry" alt="Top Languages" />
 </p>
 
 ---
