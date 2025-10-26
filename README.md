@@ -1,14 +1,14 @@
-# Hi there, I'm Lawrence!
+# Hi there, I'm Async!
 
 **Aspiring Full-Stack Developer** | Lifelong Learner  
 
 ---
 
 ## About Me
-- Currently building: **BitterSweet POS System**  
+- Currently building: **Student Portfolios, and Web based System with AI integration**  
 - Learning: **React, TailwindCSS, Node.js, PHP, C#**  
 - Goal: To create scalable, user-friendly apps & contribute to open-source  
-- Fun fact: I only remember how to solve the bug when I’m not coding
+- Fun fact: I am good at creating bugs
 
 ---
 
